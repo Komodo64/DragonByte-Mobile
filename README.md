@@ -54,4 +54,4 @@ Sistema de gestión para venta de celulares, accesorios y servicio técnico desa
 
 ## Integrantes
 
-* Tu nombre aquí
+* Brandon Alessandro Beckerman Hernández Escobar y Johny Matheo Fraco Zuleta
